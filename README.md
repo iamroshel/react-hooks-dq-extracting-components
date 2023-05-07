@@ -1,4 +1,4 @@
-# Discussion Questions: Extracting Components
+# Discussion Questions: Extracting Components c
 
 Get together in groups and clone down this repository. In the `src/App.js` file,
 we have one large component that makes the markup for our entire application.
